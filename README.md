@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**vdung033/vdung033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hướng Dẫn Sử Dụng GitHub
 
-Here are some ideas to get you started:
+Đây là repository dùng để lưu tài liệu hướng dẫn sử dụng GitHub cho người mới.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Nội dung chính
+
+Tạo tài khoản GitHub
+Tạo repository mới
+Chỉnh sửa README
+Upload file
+Tạo file mới
+Sử dụng Git trên máy tín
